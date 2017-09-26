@@ -10,5 +10,5 @@ $ git clone git@github.com:jayhale/sendgrid-django-64.git
 
 $ cd sendgrid-django-64
 
-$ py.test
+$ pytest test.py
 ```
