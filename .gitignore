@@ -4,6 +4,17 @@ __pycache__/
 *$py.class
 *.so
 
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
 # direnv
 .direnv/
 .envrc
